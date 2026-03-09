@@ -465,4 +465,6 @@ exterior proposed here.
 **Patterson, D. & Beaney, M.** The History of the Philosophy of Logic.
 **Feferman, A.B. & Feferman, S.** Alfred Tarski: Life and Logic.
 Recommended reading for deeper engagement with Tarski.
+
+[Text in spanish](http://puigdefabregas.eu/index_es.html)
 ::::

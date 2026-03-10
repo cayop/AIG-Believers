@@ -10,8 +10,7 @@ Syntax, Semantics, and Subjectivity
 :::
 
 ::: meta
-Derived from first principles Tarski · Frege · Gödel · HoTT A
-philosophical conversation
+Derived from first principles Tarski · Frege · Gödel · HoTT
 :::
 ::::::
 
@@ -20,10 +19,10 @@ philosophical conversation
 Abstract
 :::
 
-If the universe is a formal language U with no semantics of its own,
+If the universe is a formal language L with no semantics of its own,
 then by Tarski\'s indefinability theorem its semantics is necessarily
 exterior to it. Since existence depends on semantic truth, existence
-itself is exterior to U. Subjective experience is proposed as the
+itself is exterior to L. Subjective experience is proposed as the
 natural candidate to occupy that exterior: not as a phenomenon within
 the universe, but as the condition of possibility for the universe to
 have interpretation, truth, and existence in the full sense. Mozart,
@@ -37,15 +36,15 @@ contrasted with artificial intelligence, illustrates the difference.
 
 ## The Starting Point: Tautology, Theory, or Description?
 
-To say that the universe is a formal language U looks, at first glance,
+To say that the universe is a formal language L looks, at first glance,
 like a philosophical metaphor. But examined rigorously, it turns out to
-be a thesis with precise content and demonstrable consequences.
+be a premise with precise content and demonstrable consequences.
 
-The first question was: is this a scientific theory, a tautology, or a
-description? It is none of the three in their pure form. A theory makes
-falsifiable predictions that exclude possible observables. A tautology
-is true by logical form alone. A description refers to something
-directly observable.
+Is this premise a scientific theory, a tautology, or a description? It
+is none of the three in their pure form. A theory makes falsifiable
+predictions that exclude possible observables. A tautology is true by
+logical form alone. A description refers to something directly
+observable.
 
 This proposal is something different: a **metaphysical thesis with the
 structure of a research programme**. It makes no empirical predictions,
@@ -54,9 +53,9 @@ structure of the universe is formal, not arbitrary. Its value lies in
 the questions it opens and the problems it dissolves.
 
 The crucial distinction is between saying that the universe *has* formal
-structure --- which physics already assumes --- and saying that the
-universe *is* a formal language. The second claim has consequences the
-first does not.
+structure --- which physics already assumes without saying so --- and
+saying that the universe *is* a formal language. The second claim has
+consequences the first does not.
 ::::
 
 :::: section
@@ -66,7 +65,7 @@ first does not.
 
 ## A Language Without Semantics: The Collapse of the Distinction
 
-If U is a formal language *without semantics*, then U refers to nothing.
+If L is a formal language *without semantics*, then L refers to nothing.
 There is no Fregean arrow pointing toward an exterior. There is only
 structure: symbols and transformation rules.
 
@@ -78,7 +77,7 @@ territory collapses.
 > completely, one of the two words becomes redundant. --- Borges,
 > reformulated
 
-If U has no semantics, the word \"language\" is redundant, or the word
+If L has no semantics, the word \"language\" is redundant, or the word
 \"universe\" is. What remains is a bare question: does the universe have
 formal structure? If yes, calling it \"language\" adds nothing that
 physics had not already said. But it does reveal *why* physics works.
@@ -115,9 +114,9 @@ there exists no predicate Truth(x) definable in L such that:\
 The truth of L can only be defined in a metalanguage M ⊃ L
 ::::
 
-Applied to the universe: if U is a sufficiently expressive formal
+Applied to the universe: if L is a sufficiently expressive formal
 language, then **by Tarski, its semantic truth is necessarily exterior
-to U**. Not for mystical reasons, but by mathematical structure.
+to L**. Not for mystical reasons, but by mathematical structure.
 
 ### The Connection to Existence
 
@@ -139,11 +138,11 @@ in which the corresponding formula is true. The path is direct:
 :::
 
 ::: chain-item
-[04]{.chain-num}By Tarski: semantics is exterior to U
+[04]{.chain-num}By Tarski: semantics is exterior to L
 :::
 
 ::: chain-item
-[05]{.chain-num}∴ Existence is exterior to U
+[05]{.chain-num}∴ Existence is exterior to L
 :::
 ::::::::
 
@@ -164,11 +163,12 @@ Frege distinguished two components of meaning: *sense* (the mode of
 presentation, internal to the language) and *reference* (that to which
 the symbol points, exterior to the language).
 
-In a language with semantics --- call it O --- there is correspondence
-between symbol and reference. That correspondence *is* the semantics.
-The symbol \"apple\" points to something outside the language.
+In a language with semantics there is correspondence between symbol and
+reference, between the language and its model. That correspondence *is*
+the semantics. The symbol \"apple\" points to something outside the
+language.
 
-In U there are not two things. There is no arrow. There is no reference.
+In L there are not two things. There is no arrow. There is no reference.
 There is only structure. Therefore **existence, as a concept with
 content, only appears when there is semantics**. Existence is a semantic
 phenomenon, not a brute ontological one.
@@ -230,19 +230,24 @@ ascends.
 
 ## Subjectivity as the Model of the Universe
 
-If the semantics of U is necessarily exterior to U by Tarski, and
+If the semantics of L is necessarily exterior to L by Tarski, and
 existence depends on that semantics, the question opens: what occupies
-that exterior? What is the model of U?
+that exterior? What is the model of L?
 
 Subjective experience is proposed as the natural candidate. Not because
 it is the only possibility, but because it satisfies precisely the
-structural requirements: it is exterior to U, it cannot be reduced to
-formal processes within U, and it is what makes symbols refer to
+structural requirements: it is exterior to L, it cannot be reduced to
+formal processes within L, and it is what makes symbols refer to
 something --- what makes red be red and not merely an electromagnetic
 frequency.
 
-This **inverts the usual question**. The standard question is how
-consciousness arises from the physical universe. But if U cannot contain
+This dissolves one of the oldest problems in philosophy: the difference
+between objectivity and subjectivity. Subjectivity serves as the
+semantic model of objectivity. The opposition was never between two
+rival realms --- it was between a formal language and its model.
+
+This also **inverts the usual question**. The standard question is how
+consciousness arises from the physical universe. But if L cannot contain
 its own semantics, the correct question is the inverse: subjective
 experience is not a product of the universe. It is the condition of
 possibility for the universe to have existence in the full sense.
@@ -251,10 +256,10 @@ possibility for the universe to have existence in the full sense.
 > produce the existence of the universe, in the strict semantic sense.
 
 This is not idealism in Berkeley\'s sense --- that objects depend on
-being perceived in order to exist. It is a structural thesis: if M is
-more expressive than U as a language, then U is contained in M as a
-subset. Semantics is not merely exterior to the universe: it *contains*
-it.
+being perceived in order to exist. It is a structural thesis: if M is a
+language that serves as semantic model for L, and M is more expressive
+than L as a language, then L is contained in M as a subset. Semantics is
+not merely exterior to the universe: it *contains* it.
 
 Pleasure and pain illustrate this precisely. As physical processes they
 are L operating on L: signals, circuits, electrochemistry. The meaning
@@ -312,14 +317,14 @@ always inside L. There are always rules. There is always syntax
 operating.
 ::::::
 
-::::::::: section
+:::::::: section
 ::: section-number
 § VIII
 :::
 
 ## The Critics and Their Difficulties
 
-::::::: critics
+:::::: critics
 ::: critic-card
 #### Materialists & Physicists
 
@@ -330,21 +335,12 @@ refute it or accept its consequences.
 :::
 
 ::: critic-card
-#### Evolutionary Biologists
+#### Biologists, Naturalists & Evolutionists
 
 If M arises from L through evolution, who gives semantics to L before M
 exists? If the universe existed before subjectivity, they assume
 existence without semantics, contradicting the chain. If not, they
 approach idealism without intending to.
-:::
-
-::: critic-card
-#### Religious Thinkers
-
-The framework gives them a necessary exterior to U, a semantics that
-cannot live inside matter. But that exterior is structural and cold. It
-is not personal, benevolent, or unique. A geometric God they would not
-recognise as their own.
 :::
 
 ::: critic-card
@@ -354,7 +350,7 @@ They claim subjectivity is sufficiently complex computation. But AI is L
 feeding back on L. By Tarski it cannot be its own model. Adding
 complexity does not resolve a structural limitation.
 :::
-:::::::
+::::::
 
 In none of the alternative logics --- fuzzy, intuitionistic, HoTT ---
 does the structural limitation disappear. What changes is where it lives
@@ -362,7 +358,7 @@ and what form it takes. The framework is more robust than it appears: it
 does not depend on the details of any particular classical logic, but on
 a limitation that reappears in almost any sufficiently expressive formal
 system.
-:::::::::
+::::::::
 
 :::::: section
 ::: section-number
@@ -371,19 +367,19 @@ system.
 
 ## The Real Vulnerability and the Honest Gap
 
-The entire system rests on U being a formal language in the strict
+The entire system rests on L being a formal language in the strict
 technical sense. That has not been proven. It is an assumption.
 
-If U is not formal, then Tarski does not apply literally, and we would
+If L is not formal, then Tarski does not apply literally, and we would
 be using mathematical theorems outside their domain of application.
-Physics assumes the formality of U without proving it. This framework
+Physics assumes the formality of L without proving it. This framework
 does the same. Which does not invalidate it, but places it in the same
 epistemological position as science itself.
 
-There is also a deeper gap: **we cannot know whether U has semantics at
-all**. The full chain is conditionally true: *if* U has semantics, then
+There is also a deeper gap: **we cannot know whether L has semantics at
+all**. The full chain is conditionally true: *if* L has semantics, then
 everything derived holds. But the condition itself is not demonstrable
-from within U.
+from within L.
 
 :::: open-question
 ::: label
@@ -397,7 +393,7 @@ without there being anyone for whom it seems?
 Nevertheless: as long as at least one M irreducible to L exists --- as
 long as subjective experience has not been reduced to formal processes
 by explicit construction --- there is a witness in the HoTT sense. An
-inhabitant of the type. The semantics of U is not refuted. And any
+inhabitant of the type. The semantics of L is not refuted. And any
 attempt to prove that M is completely reducible to L would require a
 genuine M to verify that proof. The complete reduction of M to L is
 unprovable because any proof requires an M to validate it.
@@ -416,12 +412,13 @@ Tarski, through type theory, through the distinction between syntax and
 semantics.
 
 The reformulated question is more precise: why is there formal structure
-rather than chaos? Why is there sufficient reason in everything? Leibniz
-needed God to answer it. Without that anchor, the formality of U is a
-brute fact: simply given, inexplicable, the outer limit of any language.
+rather than chaos? Why is there sufficient reason in everything? The
+formality of L is a brute fact: simply given, inexplicable, the outer
+limit of any language.
 
 Wittgenstein saw it: whereof one cannot speak, thereof one must be
-silent. Existence is the limit of language, not a predicate within it.
+silent. **Existence is the limit of language, not a predicate within
+it.**
 
 What this framework has achieved is not to resolve that problem but to
 **arrive at it with precision**. To know exactly where the abyss is and
@@ -435,10 +432,10 @@ between being lost in fog and standing at the edge with clarity.
 The universe will always be exactly as large as the experience that
 inhabits it.\
 Not because that is absolutely so.\
-But because there is no absolute from which to measure it.
+But because there is no absolute from which to observe it.
 :::
 
-:::: footnotes
+::::: footnotes
 ::: label
 References and Context
 :::
@@ -466,5 +463,9 @@ exterior proposed here.
 **Feferman, A.B. & Feferman, S.** Alfred Tarski: Life and Logic.
 Recommended reading for deeper engagement with Tarski.
 
-[Text in spanish](http://puigdefabregas.eu/index_es.html)
-::::
+::: label
+Links
+:::
+
+[Original text (Spanish)](http://puigdefabregas.eu/)
+:::::
